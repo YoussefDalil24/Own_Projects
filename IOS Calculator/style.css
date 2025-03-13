@@ -89,3 +89,14 @@ html, body #fullheight{
     grid-column: span 2;
 
 }
+
+#input {
+    display: block;
+    font-size: 210px;
+    background-color: black;
+    border: none;
+    color: white;
+    text-align: right;
+    margin-right: 5%;
+    width: 100%;
+}
