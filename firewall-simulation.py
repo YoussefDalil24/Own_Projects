@@ -9,8 +9,6 @@ def check_firewall_rules(ip_address, rules):
             return action
     return "allow"
 
-
-
 def main():
     firewall_rules = {
         "192.168.1.1": "block",
